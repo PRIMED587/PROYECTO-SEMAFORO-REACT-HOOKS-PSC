@@ -1,3 +1,12 @@
+
+![ProyectoSemaforo](https://github.com/user-attachments/assets/479157fd-2b84-47f6-b081-cdb5f9fa4e99)
+
+
+
+
+
+
+
 # Hello World with React boilerplate
 
 Start coding a react application
